@@ -14,7 +14,7 @@ The goal of this competition is to classify the type of ovarian cancer from micr
 * [Trainer](ubc-train-224px.ipynb)
 
 ## Results
-Current model achieves 60% validation acuracy in 5 class classification.
+Model with current setting in [Trainer](ubc-train-224px.ipynb) achieves 60% validation acuracy in 5 class classification.
 
 ## Future work
 - The main limitation of the current approach is that the model is trained considering each patch as independent samples. This is undesirable because some of the patches may not contain cancerous cells and nonetheless trained to be classified as such.
