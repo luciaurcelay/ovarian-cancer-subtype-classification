@@ -5,7 +5,7 @@ Solution for Kaggle competition UBC Ovarian Cancer Subtype Classification and Ou
 The goal of this competition is to classify the type of ovarian cancer from microscopy scans of biopsy samples. There are two categories of images: whole slide images (WSI) and tissue microarray (TMA). Whole slide images are at 20x magnification and can be quite large. The TMAs are smaller (roughly 4,000x4,000 pixels) but at 40x magnification.
 
 ## Pipeline
-![UBC Ovarian Cancer](https://github.com/luciaurcelay/ovarian-cancer-subtype-classification/assets/93920109/af0768c7-3546-449a-a88e-80b54d3d15e2)
+![UBC Ovarian Cancer (1)](https://github.com/luciaurcelay/ovarian-cancer-subtype-classification/assets/93920109/a09da125-bdd8-42b4-9dbe-0ca70fca1ec4)
 
 
 ## Files
